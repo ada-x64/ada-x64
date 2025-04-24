@@ -58,11 +58,12 @@
 
 ---
 
+<a href="https://bksy.app/profile/cubething.dev"><img src="https://img.shields.io/badge/bsky-0285FF?logo=bluesky&logoColor=white"/></a>
 <a href="https://cubething.dev/static/media/resume.pdf"><img src="https://img.shields.io/badge/resume-red?logo=docsdotrs" /></a> 
-<a href="https://www.linkedin.com/in/ada-mandala/"><img src="https://img.shields.io/badge/linkedin-blue?logo=invision&logoColor=white" /></a> 
-<a href="https://cubething.dev/"><img src="https://img.shields.io/badge/web-yellow?logo=htmx"/></a>
+<a href="https://www.linkedin.com/in/ada-mandala/"><img src="https://img.shields.io/badge/linkedin-0a66c2?logo=invision&logoColor=white" /></a> 
+<a href="https://cubething.dev/"><img src="https://img.shields.io/badge/web-f59e0b?logo=htmx"/></a>
 <a href="mailto:ada@cubething.dev"><img src="https://img.shields.io/badge/open_to_work-white?logo=protonmail"/></a>
-![enbyware](https://pride-badges.pony.workers.dev/static/v1?label=enbyware&labelColor=%23555&stripeWidth=8&stripeColors=FCF434%2CFFFFFF%2C9C59D1%2C2C2C2C)
+<a href="https://en.pronouns.page/are/they&she"><img src="https://pride-badges.pony.workers.dev/static/v1?label=enbyware&labelColor=%23555&stripeWidth=8&stripeColors=FCF434%2CFFFFFF%2C9C59D1%2C2C2C2C"/></a>
 
 I am a web developer and gamedev sleeper agent.
 After earning a bachelor’s with honors in philosophy and mathematics, I decided to pursue software development as a career. I've been creating web and desktop applications since 2016 and pursuing philosophy on the side.
