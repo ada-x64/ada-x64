@@ -22,22 +22,22 @@
     <img src="https://wgpu.rs/logo.min.svg" height=48 title="WGPU" />
   </div>
   <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height=48 title="Pandas" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" height=48 title="Numpy" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height=48 title="PostgreSQL"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height=48 title="MongoDB"/>
+    <img src="https://simpleicons.org/icons/latex.svg" fill="#008080" height=48 title="LaTeX" />
+    <img src="https://simpleicons.org/icons/inkscape.svg" height=48 title="Inkscape" />
+    <img src="https://simpleicons.org/icons/aseprite.svg" height=48 title="Asperite" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height=48 title="Blender" />
+  </div>
+  <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height=36 title="Pandas" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" height=36 title="Numpy" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg" height=36 title="PostgreSQL"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" height=36 title="MongoDB"/>
   </div>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/debian/debian-original.svg" height=36 title="Debian" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" height=36 title="DigitalOcean" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" height=36 title="Docker" />       
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-plain.svg" height=36 title="Vim" />       
-  </div>
-  <div align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" height=36 title="TeX" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-plain.svg" height=36 title="Inkscape" />
-    <img src="https://simpleicons.org/icons/aseprite.svg" height=36 title="Asperite" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height=36 title="Blender" />
   </div>
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height=36 title="Raspberry Pi" />
