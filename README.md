@@ -1,5 +1,5 @@
 
-## Hi, I'm Phoenix 🙇‍♀️
+## Hi, I'm Phoenix Ada Rose 🙇‍♀️
 
   <div align="center">
     <img src="https://www.rustacean.net/assets/cuddlyferris.svg" height=64 title="Rust" />
