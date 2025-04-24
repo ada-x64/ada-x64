@@ -36,10 +36,11 @@
   <div align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tex/tex-original.svg" height=36 title="TeX" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/inkscape/inkscape-plain.svg" height=36 title="Inkscape" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-plain.svg" height=36 title="Powershell" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height=36 title="Raspberry Pi" />
+    <img src="https://simpleicons.org/icons/aseprite.svg" height=36 title="Asperite" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" height=36 title="Blender" />
   </div>
   <div align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" height=36 title="Raspberry Pi" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" height=36 title="nginx" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height=36 title="GitHub Actions" />        
   </div>
