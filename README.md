@@ -15,7 +15,7 @@ My philosophical interests include Buddhist conceptions of mind, aesthetics, cri
 ---
 
 <div align="center" style="display: flex; justify-content: center; align-items: end; flex-wrap: wrap">
-<a href="https://github.com/ada-x64/qproj"><img style="margin:0" src="https://github-readme-stats.vercel.app/api/pin/?username=ada-x64&repo=qproj&theme=ayu-mirage"/></a> <a href="https://github.com/ada-x64/sundile_rs"><img style="margin:0" src="https://github-readme-stats.vercel.app/api/pin/?username=ada-x64&repo=sundile_rs&theme=ayu-mirage" /></a> 
+<a href="https://github.com/ada-x64/qproj"><img style="margin:0" src="https://github-readme-stats.vercel.app/api/pin/?username=ada-x64&repo=qproj&theme=github_dark"/></a> <a href="https://github.com/ada-x64/sundile_rs"><img style="margin:0" src="https://github-readme-stats.vercel.app/api/pin/?username=ada-x64&repo=sundile_rs&theme=github_dark" /></a> 
 </div>
 
 ---
