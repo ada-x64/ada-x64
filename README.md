@@ -1,6 +1,6 @@
-## Hi, I'm Phoenix Ada Rose 🙇‍♀️
+## Hi, I'm Phoenix Ada Rose Mandala 🙇‍♀️
 
-![https://bsky.app/profile/cubething.dev](https://img.shields.io/badge/bsky-0285FF?logo=bluesky&logoColor=white) ![https://cubething.dev/static/media/resume.pdf](https://img.shields.io/badge/resume-red?logo=docsdotrs)  ![https://www.linkedin.com/in/ada-mandala/](https://img.shields.io/badge/linkedin-0a66c2?logo=invision&logoColor=white)  ![https://cubething.dev/](https://img.shields.io/badge/web-f59e0b?logo=htmx)  ![mailto:ada@cubething.dev](https://img.shields.io/badge/open_to_work-white?logo=protonmail)  ![https://en.pronouns.page/are/they&she](https://pride-badges.pony.workers.dev/static/v1?label=enbyware&labelColor=%23555&stripeWidth=8&stripeColors=FCF434%2CFFFFFF%2C9C59D1%2C2C2C2C)
+[![bsky](https://img.shields.io/badge/bsky-0285FF?logo=bluesky&logoColor=white "Meet me on bsky")](https://bsky.app/cubething.dev) [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?logo=invision&logoColor=white "Visit me on LinkedIn")](https://www.linkedin.com/in/ada-mandala/) [![github](https://img.shields.io/badge/github-gray?logo=github "Check me out on GitHub")](https://github.com/ada-x64) [![resume](https://img.shields.io/badge/resume-red?logo=docsdotrs)](https://cubething.dev/static/media/resume.pdf "Download my resume") [![open to work](https://img.shields.io/badge/open_to_work-white?logo=protonmail "Send me an Email")](mailto:ada@cubething.dev) [![enbyware](https://pride-badges.pony.workers.dev/static/v1?label=enbyware&labelColor=%23555&stripeWidth=8&stripeColors=FCF434%2CFFFFFF%2C9C59D1%2C2C2C2C "they/she")](https://en.pronouns.page/are/they&she)
 
 I am a web developer and gamedev sleeper agent.
 After earning a bachelor’s with honors in philosophy and mathematics, I decided to pursue software development as a career. I've been creating web and desktop applications since 2016 and pursuing philosophy on the side.
@@ -11,15 +11,14 @@ In my spare time I developed an interactive graphics engine called [sundile_rs](
 
 My philosophical interests include Buddhist conceptions of mind, aesthetics, critical theory, logic/semantics/semiotics, and thought from the early 20th century.
 
-
 ---
 
 <div align="center" style="display: flex; justify-content: center; align-items: end; flex-wrap: wrap">
-<a href="https://github.com/ada-x64/qproj"><img style="margin:0" src="https://github-readme-stats.vercel.app/api/pin/?username=ada-x64&repo=qproj&theme=github_dark"/></a> <a href="https://github.com/ada-x64/sundile_rs"><img style="margin:0" src="https://github-readme-stats.vercel.app/api/pin/?username=ada-x64&repo=sundile_rs&theme=github_dark" /></a> 
+<a href="https://github.com/ada-x64/qproj"><img style="margin:0" src="https://github-readme-stats.vercel.app/api/pin/?username=ada-x64&repo=qproj&theme=ayu-mirage"/></a> <a href="https://github.com/ada-x64/sundile_rs"><img style="margin:0" src="https://github-readme-stats.vercel.app/api/pin/?username=ada-x64&repo=sundile_rs&theme=ayu-mirage" /></a> 
 </div>
 
 ---
-  
+
   <div align="center">
     <img src="https://www.rustacean.net/assets/cuddlyferris.svg" height=64 title="Rust" />
     <img src="https://raw.githubusercontent.com/bevyengine/bevy/refs/heads/main/assets/branding/icon.svg" height=64 title="Bevy"/>
