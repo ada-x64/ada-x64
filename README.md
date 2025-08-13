@@ -12,9 +12,14 @@ In my spare time I developed an interactive graphics engine called [sundile_rs](
 My philosophical interests include Buddhist conceptions of mind, aesthetics, critical theory, logic/semantics/semiotics, and thought from the early 20th century.
 
 ---
-
-<div align="center" style="display: flex; justify-content: center; align-items: end; flex-wrap: wrap">
-<a href="https://github.com/ada-x64/qproj"><img style="margin:0" src="https://github-readme-stats.vercel.app/api/pin/?username=ada-x64&repo=qproj&theme=ayu-mirage"/></a> <a href="https://github.com/ada-x64/sundile_rs"><img style="margin:0" src="https://github-readme-stats.vercel.app/api/pin/?username=ada-x64&repo=sundile_rs&theme=ayu-mirage" /></a> 
+<div align="center">
+<a href="https://cubething.dev/qproj/general-introduction"><img src="https://cubething.dev/static/qproj-quail-logo.webp" height=128 alt="Illustration of a quail next to text, 'qproj'" title="qproj logo" /></a>
+<br/>
+<a href="https://github.com/ada-x64/qproj">main project </a>
+|
+<a href="https://github.com/ada-x64/q_service"> q_service  </a>
+<br/>
+<a href="https://wraithcastle.com" style="font-size: small">illustration by wraithcastle</a>
 </div>
 
 ---
