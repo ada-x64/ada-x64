@@ -1,25 +1,43 @@
 ## Hi, I'm Phoenix Ada Rose Mandala 🙇‍♀️
 
-[![bsky](https://img.shields.io/badge/bsky-0285FF?logo=bluesky&logoColor=white "Meet me on bsky")](https://bsky.app/cubething.dev) [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?logo=invision&logoColor=white "Visit me on LinkedIn")](https://www.linkedin.com/in/ada-mandala/) [![web](https://img.shields.io/badge/web-f59e0b?logo=htmx "Visit me on the web")](https://cubething.dev) [![resume](https://img.shields.io/badge/resume-red?logo=docsdotrs)](https://cubething.dev/static/media/resume.pdf "Download my resume") [![open to work](https://img.shields.io/badge/open_to_work-white?logo=protonmail "Send me an Email")](mailto:ada@cubething.dev) [![enbyware](https://pride-badges.pony.workers.dev/static/v1?label=enbyware&labelColor=%23555&stripeWidth=8&stripeColors=FCF434%2CFFFFFF%2C9C59D1%2C2C2C2C "they/she")](https://en.pronouns.page/are/they&she)
+[![bsky](https://img.shields.io/badge/bsky-0285FF?logo=bluesky&logoColor=white "Meet me on bsky")](https://bsky.app/cubething.dev) [![LinkedIn](https://img.shields.io/badge/linkedin-0a66c2?logo=invision&logoColor=white "Visit me on LinkedIn")](https://www.linkedin.com/in/ada-mandala/) [![web](https://img.shields.io/badge/web-f59e0b?logo=htmx "Visit me on the web")](https://cubething.dev) [![resume](https://img.shields.io/badge/resume-red?logo=docsdotrs)](https://www.cubething.dev/static/resume.pdf "Download my resume") [![open to work](https://img.shields.io/badge/open_to_work-white?logo=protonmail "Send me an Email")](mailto:ada@cubething.dev) [![enbyware](https://pride-badges.pony.workers.dev/static/v1?label=enbyware&labelColor=%23555&stripeWidth=8&stripeColors=FCF434%2CFFFFFF%2C9C59D1%2C2C2C2C "they/she")](https://en.pronouns.page/are/they&she)
 
-I am a web developer and gamedev sleeper agent.
-After earning a bachelor’s with honors in philosophy and mathematics, I decided to pursue software development as a career. I've been creating web and desktop applications since 2016 and pursuing philosophy on the side.
+_software developer, parent, philosopher, artist._
 
-I have worked with Roll20 to bring [an original IP to life.](https://burnbryte.com) I have helped indie game developers on web, mobile, and desktop projects. At Valorem Reply, I contracted with Disney to bring ESPN+ to the PS5. Most recently, I was employed at [Prospective](https://prospective.co), a startup with a $1M seed fund which brings real time data analysis to scale using Rust and WASM.
+After earning a bachelor’s with honors in philosophy and mathematics, I decided
+to pursue software development as a career. I've been creating web and desktop
+applications since 2016 and pursuing philosophy on the side.
 
-In my spare time I developed an interactive graphics engine called [sundile_rs](https://github.com/ada-x64/sundile_rs), which runs natively and on the web using WebGPU. Currently, I'm working [on an untitled game project](https://github.com/ada-x64/qproj) in the Bevy game engine.
+_You can view my full portfolio [here.](https://cubething.dev/portfolio)_
 
-My philosophical interests include Buddhist conceptions of mind, aesthetics, critical theory, logic/semantics/semiotics, and thought from the early 20th century.
+I have worked with Roll20 to bring [an original IP to
+life.](https://burnbryte.com) I have helped indie game developers on web,
+mobile, and desktop projects. At Valorem Reply, I contracted with Disney to
+bring ESPN+ to the PS5. At Prospective I helped bring real time data analysis to
+scale using a custom real-time database built in Rust and WASM.
+
+In my spare time I developed an interactive graphics engine called
+[sundile_rs](https://github.com/ada-x64/sundile_rs), which runs natively and on
+the web using WebGPU. Currently, I'm working on [qproj, an untitled game](https://cubething.dev/posts/general-introduction)
+([github](https://github.com/ada-x64/qproj)) written in the Bevy engine.
+I blog about it regularly. Links are available below to all the related
+repositories.
+
+My philosophical interests include Buddhist conceptions of mind, aesthetics,
+phenomenology, media theory, critical theory, logic/semantics/semiotics.
+Currently researching the affective turn in epistemology.
+
+
 
 ---
 <div align="center">
-<a href="https://cubething.dev/qproj/general-introduction"><img src="https://cubething.dev/static/qproj-quail-logo.webp" height=128 alt="Illustration of a quail next to text, 'qproj'" title="qproj logo" /></a>
+<img src="https://www.cubething.dev/static/logos/qproj.png" style="width: 24em" alt="Illustration of a quail next to text, 'qproj'" title="qproj logo" />
 <br/>
-<a href="https://github.com/ada-x64/qproj">main project </a>
-|
 <a href="https://github.com/ada-x64/q_service"> q_service  </a>
-<br/>
-<a href="https://wraithcastle.com" style="font-size: small">illustration by wraithcastle</a>
+|
+<a href="https://github.com/ada-x64/template"> tfw  </a>
+|
+<a href="https://github.com/ada-x64/bevy_command_prompt"> bevy_command_prompt  </a>
 </div>
 
 ---
