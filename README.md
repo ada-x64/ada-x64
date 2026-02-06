@@ -31,13 +31,9 @@ Currently researching the affective turn in epistemology.
 
 ---
 <div align="center">
+  <a href="https://github.com/ada-x64/qproj">
 <img src="https://www.cubething.dev/static/logos/qproj.png" style="width: 24em" alt="Illustration of a quail next to text, 'qproj'" title="qproj logo" />
-<br/>
-<a href="https://github.com/ada-x64/q_service"> q_service  </a>
-|
-<a href="https://github.com/ada-x64/template"> tfw  </a>
-|
-<a href="https://github.com/ada-x64/bevy_command_prompt"> bevy_command_prompt  </a>
+  </a>
 </div>
 
 ---
