@@ -6,9 +6,12 @@ _You can view my full portfolio [here.](https://cubething.dev/portfolio)_
 ## / now
 
 🕮
-- Alva Noë, _The Entanglement_
-- Deleuze and Guatarri, _Anti-Oedipus_
+- ~~Alva Noë, _The Entanglement_ (2023)~~ (Finished 10 Aug, 2026)
+- Deleuze and Guatarri, _Anti-Oedipus_ (1972)
+- James S. Hans, _The Play of the World_ (1981)
 
 🖳
 - os dev + ci @ [nanvix](https://github.com/nanvix) ($)
-- game dev @ [qproj](https://github.com/cubething-qproj) -- visual novel project
+- game dev @ [qproj](https://github.com/cubething-qproj)
+  - various game development libraries
+  - currently prototyping a visual novel engine
