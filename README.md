@@ -3,6 +3,8 @@
 
 🌐 -> https://cubething.dev
 
+👁️🎮 -> https://github.com/cubething-qproj
+
 ### hi, i’m ada
 _software developer, parent, philosopher, artist._
 
